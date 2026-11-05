@@ -1,0 +1,474 @@
+{
+  "heading": "Assessment",
+  "topics": [
+    
+
+  
+  {
+    "heading": "Conditional sentences",
+    "questions": [
+      {
+        "questionNo": 1,
+        "question": "If it snowed in the desert, people would be surprised.",
+        "options": [
+          { "text": "Zero conditional" },
+          { "text": "First conditional" },
+          { "text": "Second conditional" },
+          { "text": "Third conditional" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 2,
+        "question": "Choose the correct second conditional sentence.",
+        "options": [
+          { "text": "If I study hard, I will pass." },
+          { "text": "If I were the president, I would change the rules." },
+          { "text": "If you boil water, it evaporates." },
+          { "text": "If she had studied, she would have passed." }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 3,
+        "question": "Choose the correct first conditional sentence.",
+        "options": [
+          { "text": "If I had wings, I would fly." },
+          { "text": "If it rains tomorrow, we will stay indoors." },
+          { "text": "If you heat ice, it melts." },
+          { "text": "If she had left earlier, she would have arrived on time." }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 4,
+        "question": "If he finishes his homework, he can watch TV.",
+        "options": [
+          { "text": "Zero conditional" },
+          { "text": "First conditional" },
+          { "text": "Second conditional" },
+          { "text": "Third conditional" }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 5,
+        "question": "If I were taller, I would join the basketball team.",
+        "options": [
+          { "text": "Zero conditional" },
+          { "text": "First conditional" },
+          { "text": "Second conditional" },
+          { "text": "Third conditional" }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "heading": "Analogies",
+    "questions": [
+      {
+        "questionNo": 6,
+        "question": "Hunger is to eat as thirst is to:",
+        "options": [
+          { "text": "Water" },
+          { "text": "Drink" },
+          { "text": "Thirsty" },
+          { "text": "Bottle" }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 7,
+        "question": "Ant is to insect as salmon is to:",
+        "options": [
+          { "text": "River" },
+          { "text": "Ocean" },
+          { "text": "Fish" },
+          { "text": "Trout" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 8,
+        "question": "Athlete is to trophy as student is to:",
+        "options": [
+          { "text": "Medal" },
+          { "text": "Report" },
+          { "text": "Book" },
+          { "text": "Certificate" }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 9,
+        "question": "Knight is to sword as archer is to:",
+        "options": [
+          { "text": "Arrow" },
+          { "text": "Bow" },
+          { "text": "Quiver" },
+          { "text": "Shield" }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 10,
+        "question": "Nose is to smell as tongue is to:",
+        "options": [
+          { "text": "Taste" },
+          { "text": "Speak" },
+          { "text": "Chew" },
+          { "text": "Sound" }
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "heading": "Claims and evidence",
+    "questions": [
+      {
+        "questionNo": 11,
+        "question": "Which statement is an example of weak evidence?",
+        "options": [
+          { "text": "\"Experts from the World Health Organisation recommend daily exercise for a healthy heart.\"" },
+          { "text": "\"In a recent poll, 85% of respondents agreed that recycling is important.\"" },
+          { "text": "\"I think eating vegetables is good for you because they're green.\"" },
+          { "text": "\"Data from a national survey shows a link between education and income.\"" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 12,
+        "question": "Which of the following claims is supported by the evidence below?<br>Evidence: \"Over 70% of middle school students reported feeling more focused after participating in daily physical activity.\"",
+        "options": [
+          { "text": "\"Physical activity improves student focus.\"" },
+          { "text": "\"Students should study longer hours to improve focus.\"" },
+          { "text": "\"Middle school students dislike physical activity.\"" },
+          { "text": "\"Focus has no connection to physical activity.\"" }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 13,
+        "question": "Evidence: \"Bilingual children solve problems faster.\"<br>Which claim does this support?",
+        "options": [
+          { "text": "Language learning enhances cognition" },
+          { "text": "Some words are long" }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 14,
+        "question": "Evidence: \"Walking 30 minutes daily reduces heart disease risk by 40%.\"<br>Which claim does this support?",
+        "options": [
+          { "text": "Shoes wear out" },
+          { "text": "Regular walking prevents illness" }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 15,
+        "question": "Evidence: \"Museum visitors score higher on history tests.\"<br>Which claim does this support?",
+        "options": [
+          { "text": "Cultural experiences aid learning" },
+          { "text": "Art is colourful" }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 16,
+        "question": "Claim: \"Drinking water is essential for good health.\"<br>Supporting Statement: \"I feel more energetic after drinking water during the day.\"",
+        "options": [
+          { "text": "Stronger Evidence" },
+          { "text": "Weaker Evidence" },
+          { "text": "Strongest Evidence" }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 17,
+        "question": "Claim: \"Physical activity reduces stress.\"<br>Supporting Statement: \"The Mayo Clinic reports that regular exercise increases endorphins and reduces stress hormones.\"",
+        "options": [
+          { "text": "Stronger Evidence" },
+          { "text": "Weaker Evidence" },
+          { "text": "Strongest Evidence" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 18,
+        "question": "Claim: \"Social media affects teenagers' self-esteem.\"<br>Supporting Statement: \"A survey of 10,000 teenagers found that heavy social media users were 27% more likely to report feeling unhappy.\"",
+        "options": [
+          { "text": "Stronger Evidence" },
+          { "text": "Weaker Evidence" },
+          { "text": "Strongest Evidence" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 19,
+        "question": "Claim: \"Reading every day builds vocabulary.\"<br>Which evidence best supports this claim?",
+        "options": [
+          { "text": "Books come in many colours" },
+          { "text": "A study showed children who read daily know more words than those who don't" },
+          { "text": "Some people enjoy movies more than books" }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 20,
+        "question": "Claim: \"Eating breakfast helps students focus in class.\"<br>Which evidence best supports this claim?",
+        "options": [
+          { "text": "Pancakes taste sweet" },
+          { "text": "Some families skip breakfast on weekends" },
+          { "text": "Research shows that students who eat breakfast pay better attention during lessons" }
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "heading": "Counterclaims",
+    "questions": [
+      {
+        "questionNo": 21,
+        "question": "Claim: Fast food is unhealthy and should be avoided.<br>Which is a counterclaim?",
+        "options": [
+          { "text": "Fast food often contains too much fat and sugar." },
+          { "text": "Eating fast food regularly can lead to health problems." },
+          { "text": "Some fast-food restaurants now offer healthier options like salads." }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 22,
+        "question": "Claim: Sports take up too much study time for students.<br>Which is the correct counterclaim?",
+        "options": [
+          { "text": "Sports keep students physically healthy and teach teamwork." },
+          { "text": "Many students skip homework to play sports." },
+          { "text": "Sports sometimes cause injuries." }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 23,
+        "question": "Claim: Books are better than e-books.<br>Which is a counterclaim?",
+        "options": [
+          { "text": "E-books are easier to carry and store than printed books." },
+          { "text": "Printed books have a nice smell and feel." },
+          { "text": "Many people prefer to read books in libraries." }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 24,
+        "question": "Counterclaim: \"Mobile phones distract students from learning.\"<br>What is the claim?",
+        "options": [
+          { "text": "Mobile phones help students learn better." },
+          { "text": "Mobile phones should never be used anywhere." },
+          { "text": "Mobile phones are dangerous devices." }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 25,
+        "question": "Counterclaim: \"School uniforms stop students from showing their individuality.\"<br>What is the claim?",
+        "options": [
+          { "text": "School uniforms are unnecessary." },
+          { "text": "School uniforms create equality among students." },
+          { "text": "School uniforms are too expensive." }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "heading": "Literary devices",
+    "questions": [
+      {
+        "questionNo": 26,
+        "question": "Choose the verbal irony in this conversation:",
+        "options": [
+          { "text": "\"I love cleaning my room,\" said Ella, rolling her eyes." },
+          { "text": "\"The dog barked loudly at the mailman.\"" },
+          { "text": "\"The stars twinkled brightly in the night sky.\"" },
+          { "text": "\"The cake was as soft as a pillow.\"" }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 27,
+        "question": "What is being compared in the metaphor, \"Her smile was sunshine\"?",
+        "options": [
+          { "text": "A smile and the sun." },
+          { "text": "A smile and a cloud." },
+          { "text": "Sunshine and happiness." },
+          { "text": "A cloud and a rainbow." }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 28,
+        "question": "Identify the metaphor:",
+        "options": [
+          { "text": "The car zoomed like a rocket." },
+          { "text": "He was as fast as a cheetah." },
+          { "text": "The stars danced in the sky." },
+          { "text": "Time is a thief, stealing our precious moments." }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 29,
+        "question": "\"He has a heart of stone.\" What literary device is used in the sentence?",
+        "options": [
+          { "text": "Simile" },
+          { "text": "Allusion" },
+          { "text": "Metaphor" },
+          { "text": "Verbal Irony" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 30,
+        "question": "\"She has a Mona Lisa smile.\" What literary device is used in the sentence?",
+        "options": [
+          { "text": "Simile" },
+          { "text": "Allusion" },
+          { "text": "Metaphor" },
+          { "text": "Hyperbole" }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "heading": "Creative techniques",
+    "questions": [
+      {
+        "questionNo": 31,
+        "question": "Complete the sentence so that it uses personification.<br>\"The old chair _______ under the weight of the heavy box.\"",
+        "options": [
+          { "text": "cracked" },
+          { "text": "broke" },
+          { "text": "groaned" },
+          { "text": "fell" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 32,
+        "question": "Complete the sentence so that it uses personification.<br>\"The moon _______ over the horizon like a watchful eye.\"",
+        "options": [
+          { "text": "appeared" },
+          { "text": "looked" },
+          { "text": "turned" },
+          { "text": "peeked" }
+        ],
+        "answer": 3
+      },
+      {
+        "questionNo": 33,
+        "question": "Complete the sentence so that it uses personification.<br>\"The rain _______ gently on the roof as we slept.\"",
+        "options": [
+          { "text": "fell" },
+          { "text": "landed" },
+          { "text": "tapped" },
+          { "text": "poured" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 34,
+        "question": "Find the personification in the following sentences:",
+        "options": [
+          { "text": "The stars blinked in the dark sky." },
+          { "text": "The snow fell quietly on the ground." },
+          { "text": "The dog barked loudly at the mailman." },
+          { "text": "The leaves fluttered in the breeze." }
+        ],
+        "answer": 0
+      },
+      {
+        "questionNo": 35,
+        "question": "Which of the following sentences uses personification?",
+        "options": [
+          { "text": "The waves sparkled under the sunlight." },
+          { "text": "The shadows danced on the wall." },
+          { "text": "The rain fell softly on the window." },
+          { "text": "The wind blew gently through the trees." }
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "heading": "Word meanings and proverbs",
+    "questions": [
+      {
+        "questionNo": 36,
+        "question": "What lesson does the proverb \"A bad workman always blames his tools\" teach?",
+        "options": [
+          { "text": "Tools are more important than skill" },
+          { "text": "Mistakes should be hidden" },
+          { "text": "People should accept responsibility for their errors" },
+          { "text": "Work should be avoided" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 37,
+        "question": "What lesson does the proverb \"Absence makes the heart grow fonder\" teach?",
+        "options": [
+          { "text": "People forget easily" },
+          { "text": "Being apart can increase love and appreciation" },
+          { "text": "Distance weakens relationships" },
+          { "text": "Friends should never travel" }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 38,
+        "question": "What does the word muttered mean?",
+        "options": [
+          { "text": "Shouted loudly" },
+          { "text": "Spoke clearly" },
+          { "text": "Spoke quietly and unclearly" },
+          { "text": "Sang happily" }
+        ],
+        "answer": 2
+      },
+      {
+        "questionNo": 39,
+        "question": "Which sentence correctly uses the word gleaming?",
+        "options": [
+          { "text": "The muddy shoes were gleaming with dirt." },
+          { "text": "The silver trophy was gleaming on the shelf." },
+          { "text": "He gleaming across the field." },
+          { "text": "The broken glass was dull and gleaming." }
+        ],
+        "answer": 1
+      },
+      {
+        "questionNo": 40,
+        "question": "What does the word stomped suggest?",
+        "options": [
+          { "text": "Walking softly" },
+          { "text": "Walking quickly and silently" },
+          { "text": "Walking with heavy, loud steps" },
+          { "text": "Jumping happily" }
+        ],
+        "answer": 2
+      }
+    
+  
+
+    
+]
+
+
+                 
+      }
+  ]
+}
